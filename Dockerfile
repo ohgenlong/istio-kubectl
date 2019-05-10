@@ -1,2 +1,2 @@
-FROM gcr.io/istio-release/kubectl
+FROM gcr.io/istio-release/kubectl:release-1.1-latest-daily
 
